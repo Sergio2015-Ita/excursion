@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    font-size: 16px;
+    font-weight: bold;
+    font-family: monospace,'Courier New', Courier;
+    color: #f5f5f5;
+}
+
+body{
+    background-color: rgba(0, 0, 0, 1);
+}
+
+.container{
+    max-width: 1500px;
+    margin-inline: auto;
+}
+
+.header{
+    padding: 40px 0px;
+    text-align: center;
+}
+
+.header .top_header_heading{
+    font-size: 3rem;
+    margin-bottom: 40px;
+}
+
+.header .header_link{
+    color: green;
+    font-size: 1.4rem;
+}
+
+/* Hero Section */
+.hero{
+    text-align: center;
+}
+
+.hero .hero_video_background{
+    
+}
